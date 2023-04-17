@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 Welcome to pyOpenSci. We are a diverse and welcoming community focused on supporting the Python scientific open source software that drives open science.
 
-Check out our website to learn more: https://www.pyopensci.org
+Check out our website to learn more: [https://www.pyopensci.org](https://www.pyopensci.org)
 
 <!--
 
