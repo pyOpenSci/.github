@@ -1,0 +1,8 @@
+{
+    "name": "pyOpenSci Add help-wanted Workflow",
+    "description": "Any issue that is labeled with help-wanted or sprintable will be added to the pyOpenSci help-wanted project board.",
+    "iconName": "example-icon",
+    "categories": [
+        "sprints"
+    ],
+}
