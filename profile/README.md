@@ -1,8 +1,14 @@
 # Hi there 👋
 
-Welcome to pyOpenSci. We are a diverse and welcoming community focused on supporting the Python scientific open source software that drives open science.
+Welcome to pyOpenSci. We are a vibrant and diverse scientific Python open science community of practice. 
+
+We
+* [Build training resources ](https://www.pyopensci.org/learn.html) and [lead events](https://www.pyopensci.org/events/index.html) that empower scientists with open science skills needed to more effectively share and create efficient workflows
+* Run an [open software peer review process](https://www.pyopensci.org/about-peer-review/index.html) of scientific Python software.
+* Partner with and learn from other community organizations that are doing great work in the open source and open science space.
 
 Check out our website to learn more: [https://www.pyopensci.org](https://www.pyopensci.org)
+If you are interested in Python packaging, check out our [Python packaging guidebook](https://www.pyopensci.org/python-package-guide/) and [tutorials](https://www.pyopensci.org/python-package-guide/tutorials/intro.html).
 
 <!--
 
